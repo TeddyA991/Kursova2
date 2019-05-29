@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1558949704 source:d:\projects\teodora\teodora2\animals\animals.cpp
+	"stdafx.h"
+	"stdio.h"
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+
+1558001388 d:\projects\teodora\teodora2\animals\stdafx.h
+	<stdio.h>
+
+1558001388 source:d:\projects\teodora\teodora2\animals\stdafx.cpp
+	"stdafx.h"
+
+1558001388 source:c:\users\tedi\desktop\teodora2\animals\stdafx.cpp
+	"stdafx.h"
+
+1558001388 c:\users\tedi\desktop\teodora2\animals\stdafx.h
+	<stdio.h>
+
+1559125258 source:c:\users\tedi\desktop\teodora2\animals\animals.cpp
+	"stdafx.h"
+	"stdio.h"
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+
+1559125258 source:c:\users\tedi\desktop\animals\animals.cpp
+	"stdafx.h"
+	"stdio.h"
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+
+1558001388 c:\users\tedi\desktop\animals\stdafx.h
+	<stdio.h>
+
+1558001388 source:c:\users\tedi\desktop\animals\stdafx.cpp
+	"stdafx.h"
+
