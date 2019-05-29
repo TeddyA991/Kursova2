@@ -1,8 +1,8 @@
 // Animals.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
-#include "stdio.h"
+#include <stdafx.h>
+#include <stdio.h>
 #include <string.h>
 #include <malloc.h>
 #include <stdlib.h>
